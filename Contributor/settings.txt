@@ -1,0 +1,15 @@
+[Required]
+; location of the repository:
+repLoc = C:\Users\Asus\Documents\GitHub\Contribution
+; text file location of the repository:
+txtLoc = C:\Users\Asus\Documents\GitHub\Contribution\update.txt
+
+[DEFAULT]
+; random range of daily contribution:
+min = 0
+max = 11
+
+; number of tryes to ckeck internet before exitting:
+tries = 3
+; how many minutes to sleep before trying again
+minutes = 5
